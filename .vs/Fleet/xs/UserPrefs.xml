@@ -1,0 +1,29 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{76D5ABA8-E64D-49C1-AEEA-59970FCC1819}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fleet FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Fleet.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fleet.Android/MainActivity.cs">
+    <Files>
+      <File FileName="Fleet/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="Fleet.Android/MainActivity.cs" Line="12" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fleet" expanded="True">
+            <Node name="Fleet" expanded="True" />
+            <Node name="Fleet.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fleet.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_3_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
