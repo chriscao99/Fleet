@@ -25,5 +25,20 @@
     <Folder Include="Controls\" />
     <Folder Include="ViewModels\" />
     <Folder Include="ViewModels\Forms\" />
+    <Folder Include="Models\" />
+    <Folder Include="Behaviors\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="Views\Onboarding\Styles.xaml" />
+    <EmbeddedResource Remove="Views\Onboarding\OnBoardingAnimationPage.xaml" />
+    <EmbeddedResource Remove="Views\Onboarding\WalkthroughItemPage.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Views\Onboarding\WalkthroughItemPage.xaml.cs" />
+    <Compile Remove="Views\Onboarding\Styles.xaml.cs" />
+    <Compile Remove="Behaviors\Onboarding\SfRotatorBehavior.cs" />
+    <Compile Remove="ViewModels\Onboarding\OnBoardingAnimationViewModel.cs" />
+    <Compile Remove="Models\Onboarding\Boarding.cs" />
+    <Compile Remove="Views\Onboarding\OnBoardingAnimationPage.xaml.cs" />
   </ItemGroup>
 </Project>

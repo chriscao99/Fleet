@@ -17,5 +17,10 @@ namespace Fleet.Views.Forms
         {
             InitializeComponent();
         }
+
+        async void SfButton_Clicked(System.Object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new Fleet.Views.Forms.SimpleSignUpPage());
+        }
     }
 }

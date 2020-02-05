@@ -164,7 +164,7 @@
                     HorizontalOptions="Center"
                     Orientation="Horizontal"
                     Spacing="1"
-                    VerticalOptions="End">
+                    VerticalOptions="Center">
 
                     <StackLayout.Padding>
                         <OnIdiom
@@ -187,7 +187,8 @@
                         Command="{Binding SignUpCommand}"
                         CornerRadius="4"
                         Style="{StaticResource SfFlatButtonStyle}"
-                        Text="Sign Up" />
+                        Text="Sign Up"
+                        Clicked="SfButton_Clicked"/>
 
                 </StackLayout>
 

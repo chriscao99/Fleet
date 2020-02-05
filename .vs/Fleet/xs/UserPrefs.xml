@@ -2,20 +2,24 @@
   <MonoDevelop.Ide.ItemProperties.Fleet.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F70513BE-38B2-4B23-BE79-0076140E15BF" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Fleet/MainPage.xaml" Line="4" Column="15" />
-      <File FileName="Fleet/MainPage.xaml.cs" Line="23" Column="58" />
-      <File FileName="Fleet/App.xaml.cs" Line="16" Column="42" />
+      <File FileName="Fleet/Views/Forms/SimpleSignUpPage.xaml" Line="24" Column="29" />
+      <File FileName="Fleet.iOS/AppDelegate.cs" Line="7" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fleet" expanded="True">
             <Node name="Fleet" expanded="True">
+              <Node name="Controls" expanded="True" />
+              <Node name="Converters" expanded="True" />
+              <Node name="Themes" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Forms" expanded="True">
-                  <Node name="SimpleLoginPage.xaml" selected="True" />
-                </Node>
+                <Node name="Forms" expanded="True" />
               </Node>
+            </Node>
+            <Node name="Fleet.iOS" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
             </Node>
           </Node>
         </State>

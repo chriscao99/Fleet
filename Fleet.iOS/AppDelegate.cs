@@ -1,3 +1,6 @@
+//using Syncfusion.SfRotator.XForms.iOS;
+using Syncfusion.XForms.iOS.Core;
+using Syncfusion.XForms.iOS.Graphics;
 using Syncfusion.XForms.iOS.Border;
 using Syncfusion.XForms.iOS.Buttons;
 using System;
@@ -25,6 +28,8 @@ namespace Fleet.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            //SfRotatorRenderer.Init();
+            SfGradientViewRenderer.Init();
             SfBorderRenderer.Init();
             SfButtonRenderer.Init();
             LoadApplication(new App());
