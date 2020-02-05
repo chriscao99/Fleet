@@ -10,7 +10,7 @@ namespace Fleet
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Fleet.Views.Forms.SimpleLoginPage();
         }
 
         protected override void OnStart()

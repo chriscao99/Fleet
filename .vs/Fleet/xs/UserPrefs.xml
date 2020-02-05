@@ -1,20 +1,21 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{9BD05E23-D9FB-4292-A7BE-6C921C788C88}|Default">
   <MonoDevelop.Ide.ItemProperties.Fleet.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F70513BE-38B2-4B23-BE79-0076140E15BF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Fleet/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Fleet/MainPage.xaml" Line="4" Column="15" />
-      <File FileName="Fleet/MainPage.xaml.cs" Line="25" Column="6" />
-      <File FileName="Fleet/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Fleet/MainPage.xaml.cs" Line="23" Column="58" />
+      <File FileName="Fleet/App.xaml.cs" Line="16" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fleet" expanded="True">
             <Node name="Fleet" expanded="True">
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Forms" expanded="True">
+                  <Node name="SimpleLoginPage.xaml" selected="True" />
+                </Node>
               </Node>
-              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

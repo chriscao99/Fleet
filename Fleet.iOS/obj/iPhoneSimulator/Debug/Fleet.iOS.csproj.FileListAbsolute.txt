@@ -56,3 +56,10 @@
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/
+/Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
+/Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.dll
+/Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.iOS.dll
+/Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.dll
+/Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
+/Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfComboBox.XForms.dll
+/Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfComboBox.XForms.iOS.dll

@@ -11,3 +11,7 @@
 /Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Fleet.dll
 /Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/ref/Fleet.dll
 /Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Fleet.pdb
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Themes/LightTheme.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms/SimpleEmailEntry.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms/SimpleLoginPage.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms/Styles.xaml.g.cs
