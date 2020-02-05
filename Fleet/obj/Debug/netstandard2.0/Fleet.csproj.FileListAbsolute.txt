@@ -1,0 +1,13 @@
+/Users/christophercao/Projects/Fleet/Fleet/bin/Debug/netstandard2.0/Fleet.deps.json
+/Users/christophercao/Projects/Fleet/Fleet/bin/Debug/netstandard2.0/Fleet.dll
+/Users/christophercao/Projects/Fleet/Fleet/bin/Debug/netstandard2.0/ref/Fleet.dll
+/Users/christophercao/Projects/Fleet/Fleet/bin/Debug/netstandard2.0/Fleet.pdb
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Fleet.csprojAssemblyReference.cache
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Fleet.AssemblyInfoInputs.cache
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Fleet.AssemblyInfo.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Fleet.dll
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/ref/Fleet.dll
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Fleet.pdb

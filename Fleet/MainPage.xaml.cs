@@ -17,5 +17,10 @@ namespace Fleet
         {
             InitializeComponent();
         }
+
+        void Button_Clicked(System.Object sender, System.EventArgs e)
+        {
+            DisplayAlert("Sample Title", "No cap", "OK");
+        }
     }
 }

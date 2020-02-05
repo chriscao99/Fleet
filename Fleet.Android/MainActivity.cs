@@ -9,7 +9,6 @@ using Android.OS;
 
 namespace Fleet.Droid
 {
-    //testing commit 4
     [Activity(Label = "Fleet", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
