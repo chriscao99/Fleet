@@ -22,5 +22,10 @@ namespace Fleet.Views.Forms
         {
             await Navigation.PushAsync(new Fleet.Views.Forms.SimpleLoginPage());
         }
+
+        async void SfButton_Clicked_1(System.Object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new Fleet.Views.Forms2.SimpleSignUpPage2());
+        }
     }
 }

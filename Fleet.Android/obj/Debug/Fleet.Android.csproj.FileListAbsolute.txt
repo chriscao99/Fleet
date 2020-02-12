@@ -530,3 +530,6 @@
 /Users/christophercao/Projects/Fleet/Fleet.Android/obj/Debug/android/src/crc6476a6038b5d62edaf/SfCheckBox.java
 /Users/christophercao/Projects/Fleet/Fleet.Android/obj/Debug/android/src/crc6476a6038b5d62edaf/SegmentView.java
 /Users/christophercao/Projects/Fleet/Fleet.Android/obj/Debug/android/src/crc6476a6038b5d62edaf/SfSegmentedControl.java
+/Users/christophercao/Projects/Fleet/Fleet.Android/obj/Debug/res/drawable/timezone.png
+/Users/christophercao/Projects/Fleet/Fleet.Android/obj/Debug/res/drawable/reschedule.png
+/Users/christophercao/Projects/Fleet/Fleet.Android/obj/Debug/res/drawable/viewmode.png

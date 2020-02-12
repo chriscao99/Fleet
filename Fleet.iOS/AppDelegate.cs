@@ -1,3 +1,4 @@
+using Syncfusion.XForms.iOS.ComboBox;
 //using Syncfusion.SfRotator.XForms.iOS;
 using Syncfusion.XForms.iOS.Core;
 using Syncfusion.XForms.iOS.Graphics;
@@ -28,6 +29,7 @@ namespace Fleet.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            SfComboBoxRenderer.Init();
             //SfRotatorRenderer.Init();
             SfGradientViewRenderer.Init();
             SfBorderRenderer.Init();

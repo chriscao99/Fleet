@@ -37,5 +37,6 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/13.10.0.17/lib/mono/Xamarin.iOS/Facades/System.Text.Encoding.dll
 /Users/christophercao/.nuget/packages/syncfusion.xamarin.buttons/17.4.0.46/lib/Xamarin.iOS10/Syncfusion.Buttons.XForms.dll
 /Users/christophercao/.nuget/packages/syncfusion.xamarin.sfcombobox/17.4.0.46/lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll
+/Users/christophercao/.nuget/packages/syncfusion.xamarin.sfcombobox/17.4.0.46/lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll
 /Users/christophercao/.nuget/packages/syncfusion.xamarin.core/17.4.0.46/lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll
 /Users/christophercao/.nuget/packages/syncfusion.xamarin.buttons/17.4.0.46/lib/Xamarin.iOS10/Syncfusion.Buttons.XForms.iOS.dll

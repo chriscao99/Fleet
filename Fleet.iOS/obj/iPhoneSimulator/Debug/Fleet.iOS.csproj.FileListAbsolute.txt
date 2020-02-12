@@ -50,12 +50,6 @@
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/Fleet.iOS.csproj.CopyComplete
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/Fleet.iOS.exe
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/Fleet.iOS.pdb
-/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
-/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
-/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
-/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
-/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
-/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/
 /Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
 /Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.dll
 /Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Buttons.XForms.iOS.dll
@@ -63,6 +57,12 @@
 /Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
 /Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfComboBox.XForms.dll
 /Users/christophercao/Projects/Fleet/Fleet.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfComboBox.XForms.iOS.dll
+/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
+/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
+/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/TimeZone.png
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/ReSchedule.png
 /Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/ViewMode.png
+/Users/christophercao/Projects/Fleet/Fleet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/

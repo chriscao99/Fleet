@@ -27,11 +27,18 @@
     <Folder Include="ViewModels\Forms\" />
     <Folder Include="Models\" />
     <Folder Include="Behaviors\" />
+    <Folder Include="ViewModels\Forms2\" />
+    <Folder Include="Views\Forms2\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Remove="Views\Onboarding\Styles.xaml" />
     <EmbeddedResource Remove="Views\Onboarding\OnBoardingAnimationPage.xaml" />
     <EmbeddedResource Remove="Views\Onboarding\WalkthroughItemPage.xaml" />
+    <EmbeddedResource Remove="Views\Forms\SimpleOrganizationSignUpPage.xaml" />
+    <EmbeddedResource Remove="Views\Forms\SimpleSignUpPage %28copy%29.xaml" />
+    <EmbeddedResource Remove="Views\Forms\SimpleSignUpPage %28copy%29.xaml" />
+    <EmbeddedResource Remove="Views\Forms2\SimpleSignUpPage.xaml" />
+    <EmbeddedResource Remove="Views\Forms2\SimpleSignUpPage.xaml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Views\Onboarding\WalkthroughItemPage.xaml.cs" />
@@ -40,5 +47,8 @@
     <Compile Remove="ViewModels\Onboarding\OnBoardingAnimationViewModel.cs" />
     <Compile Remove="Models\Onboarding\Boarding.cs" />
     <Compile Remove="Views\Onboarding\OnBoardingAnimationPage.xaml.cs" />
+    <Compile Remove="Views\Forms\SimpleSignUpPage %28copy%29.xaml.cs" />
+    <Compile Remove="Views\Forms\SimpleSignUpPage %28copy%29.xaml.cs" />
+    <Compile Remove="Views\Forms\SimpleOrganizationSignUpPage.xaml.cs" />
   </ItemGroup>
 </Project>

@@ -16,3 +16,7 @@
 /Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms/SimpleLoginPage.xaml.g.cs
 /Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms/Styles.xaml.g.cs
 /Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms/SimpleSignUpPage.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms/BusinessRegistrationFormPage.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms2/SimpleEmailEntry.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms2/Styles.xaml.g.cs
+/Users/christophercao/Projects/Fleet/Fleet/obj/Debug/netstandard2.0/Views/Forms2/SimpleSignUpPage2.xaml.g.cs
